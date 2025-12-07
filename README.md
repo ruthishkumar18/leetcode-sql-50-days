@@ -1,10 +1,9 @@
 # 🟦 LeetCode SQL – 50 Days Challenge
 
-This repository contains my daily solutions for the **50-Day LeetCode SQL Challenge**.
+This repository contains my daily solutions for the **50-Days LeetCode SQL Challenge**.
 Each day includes:
 - The problem summary
 - A simple SQL solution
-- A clear explanation
 
 ---
 

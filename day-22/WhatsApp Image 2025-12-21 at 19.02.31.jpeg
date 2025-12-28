@@ -1,0 +1,8 @@
+# Day 22. Game Play Analysis IV
+
+We are given an Activity table that records player logins by date.
+
+The first login of a player is the earliest event_date.
+We need to find the fraction of players who logged in again the day after their first login.
+
+The result should be rounded to two decimal places.

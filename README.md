@@ -11,7 +11,7 @@ Each day includes:
 
 | Day | Problem Name | Folder Link |
 |-----|--------------|-------------|
-| 1   | Recyclable and Low Fat Products | [Day-01](./Day-01/) |
+| 1   | Recyclable and Low Fat Products | [day-01](./day-01/) |
 | 2   | ... | [Day02](./Day02/) |
 | 3   | ... | [Day03](./Day03/) |
 | 4   | ... | [Day04](./Day04/) |
